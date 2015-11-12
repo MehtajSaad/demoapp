@@ -1,2 +1,2 @@
-## Joe's Super Rad Demoapp
+## my super amazing demo app
 
